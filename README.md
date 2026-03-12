@@ -6,4 +6,4 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-![Print site do GOV](public\img\print-index.png)
+![Print site do GOV](Images/print-index.png)
